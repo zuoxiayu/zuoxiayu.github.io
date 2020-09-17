@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Zuoxia Yu</title>
-    <link>http://zuoxiayu.github.io/</link>
+    <link>https://zuoxiayu.github.io/</link>
     <description>Recent content on Website of Zuoxia Yu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://zuoxiayu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://zuoxiayu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://zuoxiayu.github.io/</link>
+      <link>https://zuoxiayu.github.io/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://zuoxiayu.github.io/</guid>
+      <guid>https://zuoxiayu.github.io/</guid>
       <description>I am currently a postdoctoral fellow at the Department of Computer Science of the Univerisity of Hong Kong.</description>
     </item>
     
